@@ -1,7 +1,11 @@
 Projeto de sites, onde usei html e css.
 
-[visualização da pagina qrcode](/qr-code/images/mobile.png)
-[visualização da pagina profile](./images/fotoprofile.png)
+
+
+![visualização da pagina qrcode](/qr-code/images/mobile.png)
+
+
+![visualização da pagina profile](./images/fotoprofile.png)
 
 
 
