@@ -1,6 +1,8 @@
-Projeto do site com QR code frontendmentor, onde usei html e css.
+Projeto de sites, onde usei html e css.
 
-![visualização da pagina](/qr-code/images/mobile.png)
+[visualização da pagina qrcode](/qr-code/images/mobile.png)
+[visualização da pagina profile](./images/fotoprofile.png)
+
 
 
 
